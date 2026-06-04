@@ -1,0 +1,21 @@
+<h1>Notegram</h1>
+
+    <p>
+        Notegram is an application for creating and managing notes.
+        The application can connect to Google Drive to store and synchronize
+        note files created by the user.
+    </p>
+
+    <h2>Features</h2>
+    <ul>
+        <li>Create notes</li>
+        <li>Edit notes</li>
+        <li>Save notes to Google Drive</li>
+        <li>Synchronize notes between devices</li>
+    </ul>
+
+    <p>
+        <a href="privacy-policy.html">Privacy Policy</a>
+    </p>
+</body>
+</html>
